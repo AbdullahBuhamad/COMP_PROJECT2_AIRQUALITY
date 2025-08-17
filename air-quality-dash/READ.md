@@ -70,7 +70,7 @@ The dataset (`aq_clean_template.csv`) contains hourly air quality measurements (
 
 ### 1. Clone repo
 ```bash
-git clone https://github.com/yourusername/air-quality-dash.git
+git clone (https://github.com/AbdullahBuhamad/COMP_PROJECT2_AIRQUALITY)
 cd air-quality-dash
 ```
 
